@@ -1,6 +1,7 @@
-HR Workflow Designer
 
-Welcome to the HR Workflow Designer. This project is a visual workflow designer built with React. I built it to let users easily map out HR processes, like onboarding sequences or approval chains, using a smooth drag-and-drop interface. Once a workflow is designed, you can run a quick simulation to see exactly how it would execute.
+Hii Recuiters:)
+
+This project is a visual workflow designer built with React. I built it to let users easily map out HR processes, like onboarding sequences or approval chains, using a smooth drag-and-drop interface. Once a workflow is designed, you can run a quick simulation to see exactly how it would execute.
 
 My main focus here was to build a clean, modular system that is easy to extend, while making sure the core functionality works flawlessly.
 
