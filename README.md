@@ -34,19 +34,6 @@ Features
 5. State Management
    • Everything is tied together using Zustand for simple, predictable state updates.
 
-Project Structure
-
-Here is how the codebase is organized:
-
-• src folder contains:
-  • api folder for mock API and simulation logic.
-  • components folder for UI components.
-  • nodes folder for custom node definitions and behavior.
-  • store folder for the Zustand state store.
-  • types folder for TypeScript interfaces.
-  • utils folder for helper functions.
-
-The structure intentionally separates the UI, business logic, and data handling to keep the codebase clean, organized, and maintainable.
 
 How to Run
 
